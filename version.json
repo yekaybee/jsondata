@@ -1,5 +1,5 @@
 {
   "latest_version": "1.5.1",
   "download_url": "https://github.com/yekaybee/AplikasiRujukanTeknikal/releases/download/v1.5.1/RujukanTeknikalSetup_v1.5.1.exe",
-  "release_notes": "## Versi 1.5.1\n- Penambahan ciri X.\n- Tab SOP Kerja (BARU) Y.\n- Perubahan UI Z."
+   "release_notes": "### Ciri-ciri Baru & Penambahbaikan dalam Versi 1.5.1\n\n* **Tab SOP Kerja (BARU):** Menambah tab baru untuk menyimpan, melihat, dan menguruskan Standard Operating Procedures (SOP) kerja.\n* **Lampiran PDF untuk SOP:** Setiap SOP kini boleh mempunyai satu lampiran fail PDF.\n* **Pratonton Imej:** Menambah pratonton imej kecil (thumbnail) pada Borang Pendaftaran Masalah.\n* **Paparan Imej Ditambah Baik:** Thumbnail kini dipaparkan dalam tetingkap butiran masalah. Dwiklik (double-click) pada thumbnail akan membuka imej saiz penuh.\n* **Carian Lanjutan:** Menambah kebolehan mencari masalah berdasarkan Nama PIC.\n* **UI Diperkemas:** Pelbagai pembetulan dan penambahbaikan pada antaramuka pengguna, termasuk isu saiz tetingkap.\n* **Isu Dibaiki:** Membetulkan beberapa ralat dalaman (`AttributeError` dan `SyntaxError`) untuk meningkatkan kestabilan aplikasi."
 }
